@@ -37,7 +37,7 @@ h1 {
 h2 {
   font-size: 1.5em;
   margin-top: .5em;
-}
+  color: black
 
 h3 {
   font-family: 'Gabriela', serif;
@@ -57,7 +57,7 @@ p {
 
 a {
   color: black;
-  text-decoration: none;
+  text-decoration: solid;
 }
 
 a:hover {
